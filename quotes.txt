@@ -12,3 +12,5 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Never Gonna Give You Up, Never Gonna Let You Down
+Today is a good day to learn Git with Python!
